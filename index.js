@@ -3,7 +3,7 @@ var customerName = 'bob';
 
 
 function upperCaseCustomerName() {
-   var customerName = 'BOB';
+   let customerName = 'BOB';
 }
 
 upperCaseCustomerName();
