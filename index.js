@@ -1,2 +1,6 @@
 var customerName = 'bob';
-var customerName = 'BOB';
+
+
+function (capName) {
+  return (toUpperCase(capName))
+}
