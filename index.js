@@ -1,8 +1,8 @@
 var customerName = 'bob';
 
 
-function upperCaseCustomerName(toCap) {
-  var toCap = toCap.toUpperCase;
+function upperCaseCustomerName() {
+  var customerName = customerName.toUpperCase;
 }
 
 upperCaseCustomerName (customerName);
