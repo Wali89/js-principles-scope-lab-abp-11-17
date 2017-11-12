@@ -20,3 +20,9 @@ const leastFavoriteCustomer = 'jay';
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'ben';
 }
+
+const favoriteCustomers = "rick"
+
+function twoFavoriteCustomers() {
+  let 
+}
