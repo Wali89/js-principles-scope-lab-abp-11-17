@@ -6,3 +6,4 @@ function upperCaseCustomerName() {
 }
 
 upperCaseCustomerName ();
+customerName = 'bob';
