@@ -1,2 +1,2 @@
 var customerName = 'bob';
-customerName = 'BOB';
+var customerName = 'BOB';
